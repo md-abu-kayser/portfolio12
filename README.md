@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# CRUD Operations with Express, Typescript & PostgreSQL
-=======
 # Server With Express (TypeScript) - REST API Starter
 
 <!-- MIT License -->
@@ -245,4 +242,3 @@ If you’d like this README tailored for a specific purpose - such as **hiring m
 **Thank you for reviewing this project!**
 
 ---
->>>>>>> a5be68b (Remove plain documentation)
